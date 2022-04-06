@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.toubu {
+  width: 100vw;
+  height: 1vh;
+  border: 1px solid red;
+}

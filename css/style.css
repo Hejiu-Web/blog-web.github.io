@@ -1,0 +1,14 @@
+/* 定义每个页面的常量   这里是把charset属性当作一个常量定义 */
+@charset "utf-8";
+
+/* 首页样式 */
+@import "index.css";
+
+/* 文章样式 */
+@import "essay.css";
+
+/* 资源样式 */
+@import "resources.css";
+
+/* 名片样式 */
+@import "card.css";
